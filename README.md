@@ -15,7 +15,7 @@
 * Detection
 
 
-![](https://github.com/zeynepkucuk/Speaker_Diarization/speakerdiarization.png)
+![](https://github.com/zeynepkucuk/Speaker_Diarization/blob/main/speakerdiarization.png)
 
-![](https://github.com/zeynepkucuk/Speaker_Diarization/diarizationdiagram.png)
+![](https://github.com/zeynepkucuk/Speaker_Diarization/blob/main/diarizationdiagram.png)
 
